@@ -28,5 +28,6 @@ git clone https://github.com/xjairooo/Algoritmica-y-Programacion-2.git
 ## 👨‍💻💻 Autor
 
 **Jairo Campero**  
-Estudiante de Energias Sustentables - UTN ⚡ 
+Estudiante de Energias Sustentables - UTN ⚡
+
 **Correo📩:** [camperojairo0@gmail.com](https://mail.google.com/mail/?view=cm&fs=1&to=camperojairo0@gmail.com)
