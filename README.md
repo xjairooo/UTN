@@ -11,12 +11,16 @@ Apuntes, trabajos prácticos, ejercicios, resúmenes, parciales, finales y archi
 
 ---
 
-## 🚀 Uso
+## 📝 Instrucciones de uso
 
+1. Clona el repositorio en tu máquina local:
 ```bash
-git add .
-git commit -m "subo material nuevo"
-git push
+git clone https://github.com/xjairooo/Algoritmica-y-Programacion-2.git
+```
+  
+2. Subir material al repositorio  
+  ```bash
+  git add . && git commit -m "subo material nuevo" && git push
 ```
 
 ---
